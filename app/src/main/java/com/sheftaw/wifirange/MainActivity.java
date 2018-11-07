@@ -26,7 +26,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
 
     WifiManager wifiManager;
-
+    EditText editText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
